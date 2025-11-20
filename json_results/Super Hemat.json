@@ -1,0 +1,1698 @@
+{
+  "folder": "Super Hemat",
+  "pages": [
+    {
+      "page_name": "page_002.png",
+      "extracted_data": [
+        {
+          "box_2d": [
+            291,
+            38,
+            915,
+            969
+          ],
+          "label": "PROMO HANYA BERLAKU DI APLIKASI!"
+        },
+        {
+          "box_2d": [
+            329,
+            48,
+            461,
+            260
+          ],
+          "label": "item"
+        },
+        {
+          "box_2d": [
+            329,
+            276,
+            452,
+            489
+          ],
+          "label": "item"
+        },
+        {
+          "box_2d": [
+            329,
+            508,
+            464,
+            720
+          ],
+          "label": "item"
+        },
+        {
+          "box_2d": [
+            329,
+            736,
+            462,
+            948
+          ],
+          "label": "item"
+        },
+        {
+          "box_2d": [
+            471,
+            48,
+            606,
+            260
+          ],
+          "label": "item"
+        },
+        {
+          "box_2d": [
+            471,
+            278,
+            605,
+            492
+          ],
+          "label": "item"
+        },
+        {
+          "box_2d": [
+            478,
+            513,
+            608,
+            722
+          ],
+          "label": "item"
+        },
+        {
+          "box_2d": [
+            471,
+            739,
+            607,
+            951
+          ],
+          "label": "item"
+        },
+        {
+          "box_2d": [
+            617,
+            50,
+            755,
+            264
+          ],
+          "label": "item"
+        },
+        {
+          "box_2d": [
+            617,
+            283,
+            756,
+            495
+          ],
+          "label": "item"
+        },
+        {
+          "box_2d": [
+            614,
+            511,
+            756,
+            722
+          ],
+          "label": "item"
+        },
+        {
+          "box_2d": [
+            614,
+            740,
+            755,
+            952
+          ],
+          "label": "item"
+        },
+        {
+          "box_2d": [
+            767,
+            51,
+            894,
+            260
+          ],
+          "label": "item"
+        },
+        {
+          "box_2d": [
+            768,
+            285,
+            895,
+            489
+          ],
+          "label": "item"
+        },
+        {
+          "box_2d": [
+            767,
+            512,
+            903,
+            722
+          ],
+          "label": "item"
+        },
+        {
+          "box_2d": [
+            767,
+            741,
+            903,
+            951
+          ],
+          "label": "item"
+        }
+      ]
+    },
+    {
+      "page_name": "page_004.png",
+      "extracted_data": {
+        "merchant": "Indomaret",
+        "promo_title": "TEBUS HEBOH!",
+        "start_date": "2025-11-13",
+        "end_date": "2025-11-26",
+        "region": "P. Jawa, Bali, Lombok",
+        "conditions": [
+          "Minimal belanja Rp 50.000 (kecuali rokok, susu bayi di bawah usia 1 tahun, payment point, top up, tarik tunai, dan produk sponsor Tebus Heboh!) untuk bisa tebus murah produk-produk dalam promosi ini.",
+          "Pelanggan dapat menebus hingga 9 produk yang berbeda dalam satu struk.",
+          "Berlaku 1 pc per produk per struk.",
+          "Tidak berlaku kelipatan.",
+          "Dapatkan extra diskon Rp 2.000 dengan pembayaran menggunakan QRIS myBCA/BCA mobile, berlaku untuk 1 produk/struk/user/periode."
+        ],
+        "promo_items": [
+          {
+            "brand": "POINT COFFEE",
+            "name": "Drink Cappuccino/Aren Latte/Golden Caramel 210ml btl",
+            "promo_price": 5000,
+            "original_price": 7600,
+            "discount": "30%"
+          },
+          {
+            "brand": "CAP BADAK",
+            "name": "Larutan Penyegar 320ml klg semua varian",
+            "promo_price": 5000,
+            "original_price": 8000,
+            "discount": "35%"
+          },
+          {
+            "brand": "ABC",
+            "name": "Sambal Asli/Extra Pedas 275/270ml btl",
+            "promo_price": 10000,
+            "original_price": 16300,
+            "discount": "35%"
+          },
+          {
+            "brand": "INDOMARET",
+            "name": "Kacang Bali 150g pck",
+            "promo_price": 10000,
+            "original_price": 15000,
+            "discount": "30%"
+          },
+          {
+            "brand": "RINSO",
+            "name": "Detergent Cair Royal Gold/Japanese Peach/Korean Strawberry/Perfume Essence/Rose Fresh/Pure 565/510ml pch",
+            "promo_price": 10000,
+            "original_price": 14400,
+            "discount": "30%"
+          },
+          {
+            "brand": "CAP LANG",
+            "name": "Minyak Kayu Putih Roll On 15ml btl",
+            "promo_price": 10000,
+            "original_price": 19800,
+            "discount": "45%",
+            "quantity_note": "Harga untuk 2 Pcs"
+          },
+          {
+            "brand": "CHITATO LITE",
+            "name": "Snack Potato Rasa Asli/Keju 110g klg",
+            "promo_price": 15000,
+            "original_price": 27800,
+            "discount": "45%"
+          },
+          {
+            "brand": "ANTANGIN",
+            "name": "Obat Masuk Angin Cair Ginger Mint/Habbatussauda 5x15ml box",
+            "promo_price": 15000,
+            "original_price": 21700,
+            "discount": "35%"
+          },
+          {
+            "brand": "KAO ATTACK JAZ 1",
+            "name": "Detergent Powder Semerbak Cinta/Pesona Segar 850/800g pck",
+            "promo_price": 15000,
+            "original_price": 18700,
+            "discount": "HARGA SPESIAL"
+          }
+        ]
+      }
+    },
+    {
+      "page_name": "page_005.png",
+      "extracted_data": [
+        {
+          "product_name": "Nature Puffs Organic",
+          "brand": "MILNA",
+          "variant": "Cheese/Apple&M.Berries/Banana 15g/Seaweed 13g",
+          "deal": "Beli 2 Gratis 1",
+          "additional_info": "Hemat 33%"
+        },
+        {
+          "product_name": "Snack Popcorn",
+          "brand": "OISHI",
+          "variant": "Karamel/Coklat/Mentega Belgia 100g",
+          "deal": "Beli 2 Gratis 1",
+          "additional_info": "Hemat 33%"
+        },
+        {
+          "product_name": "Milk Series",
+          "brand": "ICHITAN",
+          "variant": "Semua varian",
+          "deal": "Beli 2 Gratis 1",
+          "additional_info": "300ml btl. Hemat 33%"
+        },
+        {
+          "product_name": "Teh Botol Jasmine Tea / Fruit Tea",
+          "brand": "SOSRO",
+          "variant": "Semua varian",
+          "deal": "Beli 2 Gratis 1",
+          "additional_info": "450ml/500ml btl. Hemat 33%"
+        },
+        {
+          "product_name": "Obat Masuk Angin Cair Jahe Merah",
+          "brand": "BEJO",
+          "variant": "6x15ml",
+          "deal": "Tiap Beli 1 box Gratis 1 pck LARISST Facial Tissue 250's",
+          "additional_info": null
+        },
+        {
+          "product_name": "Deterjen Powder + Molto",
+          "brand": "RINSO",
+          "variant": "Rose Fresh/Perfume Essence 400/380g",
+          "deal": "Tiap Beli 1 bag Gratis 1 pck INDOMIE Mie Goreng Plus Special 80g",
+          "additional_info": "Rp 10.000 Kemasan Ekonomis"
+        }
+      ]
+    },
+    {
+      "page_name": "page_006.png",
+      "extracted_data": [
+        {
+          "box_2d": [
+            484,
+            52,
+            608,
+            172
+          ],
+          "label": "BEBELAC GOLD 3 SOYA Vanila 700g box"
+        },
+        {
+          "box_2d": [
+            801,
+            715,
+            933,
+            966
+          ],
+          "label": "CUSSONS Baby Cream 50g pot semua varian"
+        },
+        {
+          "box_2d": [
+            787,
+            439,
+            933,
+            568
+          ],
+          "label": "HAPPY NAPPY Pants M32/L28/XL24 bag"
+        },
+        {
+          "box_2d": [
+            788,
+            298,
+            933,
+            429
+          ],
+          "label": "FITTI Pants S40/M32/L28 bag"
+        },
+        {
+          "box_2d": [
+            223,
+            824,
+            467,
+            962
+          ],
+          "label": "MAMY POKO Pants Standart NB-S44/S38/M32/L28 bag"
+        },
+        {
+          "box_2d": [
+            788,
+            185,
+            933,
+            301
+          ],
+          "label": "MAMY POKO Skin Comfort M32+2/L28 bag"
+        },
+        {
+          "box_2d": [
+            790,
+            46,
+            933,
+            177
+          ],
+          "label": "MOKO MOKO Genki Pants M32/L28/XL26 bag"
+        },
+        {
+          "box_2d": [
+            221,
+            62,
+            467,
+            218
+          ],
+          "label": "FRISIAN FLAG 1+ Madu/Vanila 750g box"
+        },
+        {
+          "box_2d": [
+            636,
+            162,
+            781,
+            296
+          ],
+          "label": "VIDORAN XMART 5+ Madu/Cokelat 700g box"
+        },
+        {
+          "box_2d": [
+            788,
+            572,
+            933,
+            706
+          ],
+          "label": "YUNIKON Baby Wipes 2x40's pck semua varian"
+        },
+        {
+          "box_2d": [
+            484,
+            713,
+            630,
+            843
+          ],
+          "label": "DANCOW Fortigro Cokelat 780g box"
+        },
+        {
+          "box_2d": [
+            223,
+            237,
+            467,
+            401
+          ],
+          "label": "VIDORAN XMART 1+ Madu/Vanila 700g box"
+        },
+        {
+          "box_2d": [
+            636,
+            49,
+            781,
+            167
+          ],
+          "label": "VIDORAN XMART 3+ Madu/Vanila 700g box"
+        },
+        {
+          "box_2d": [
+            636,
+            582,
+            781,
+            711
+          ],
+          "label": "MAMY POKO Pants Standar XXL24 bag"
+        },
+        {
+          "box_2d": [
+            636,
+            717,
+            781,
+            841
+          ],
+          "label": "MAMY POKO Pants Standar XL26 bag"
+        },
+        {
+          "box_2d": [
+            636,
+            839,
+            781,
+            966
+          ],
+          "label": "MAMY POKO Royal Soft Boys L28/XL24 bag"
+        },
+        {
+          "box_2d": [
+            484,
+            440,
+            630,
+            568
+          ],
+          "label": "CHIL GO! 3+ Madu/Vanila 660g box"
+        },
+        {
+          "box_2d": [
+            484,
+            184,
+            630,
+            301
+          ],
+          "label": "MORINAGA CHIL KID SOYA 3 Vanila 600g box"
+        },
+        {
+          "box_2d": [
+            483,
+            847,
+            628,
+            963
+          ],
+          "label": "DANCOW 3+ Madu/Vanila 350g box"
+        },
+        {
+          "box_2d": [
+            484,
+            576,
+            630,
+            709
+          ],
+          "label": "FRISIAN FLAG 3+ Madu/Vanila 750g box"
+        },
+        {
+          "box_2d": [
+            636,
+            290,
+            781,
+            442
+          ],
+          "label": "ANLENE GOLD Original/Vanila 850/825g box"
+        },
+        {
+          "box_2d": [
+            484,
+            301,
+            630,
+            437
+          ],
+          "label": "NUTRICIA NUTRILON Royal 3 Vanila/Madu 400g box"
+        },
+        {
+          "box_2d": [
+            256,
+            439,
+            467,
+            590
+          ],
+          "label": "DANCOW 1+ Madu/Vanila 350g box"
+        },
+        {
+          "box_2d": [
+            636,
+            439,
+            781,
+            568
+          ],
+          "label": "MILO Healthy Drink 3 in 1 Activ-Go 400g pck"
+        },
+        {
+          "box_2d": [
+            790,
+            725,
+            933,
+            842
+          ],
+          "label": "MITU Baby Wipes Antiseptic Refreshing Lime 10's pck"
+        },
+        {
+          "box_2d": [
+            256,
+            633,
+            467,
+            804
+          ],
+          "label": "INDOMARET Baby Diaper Pants Luxury Soft M32/L28 bag"
+        }
+      ]
+    },
+    {
+      "page_name": "page_007.png",
+      "extracted_data": [
+        {
+          "product_name": "NUTRICIA NUTRILON Royal 3 Vanila/Madu 800g klg",
+          "product_price": 210500,
+          "original_price": 217000,
+          "deal_description": "Harga Spesial",
+          "image_url": null,
+          "product_brand": "NUTRICIA NUTRILON"
+        },
+        {
+          "product_name": "NUTRICIA NUTRILON Royal 3 Vanila/Madu 800g klg",
+          "product_price": 199500,
+          "original_price": 217000,
+          "deal_description": "Beli 2 Harga/Klg",
+          "image_url": null,
+          "product_brand": "NUTRICIA NUTRILON"
+        },
+        {
+          "product_name": "SGM EKSPLOR 1+ Isopro Soy Madu/Vanila 400g box",
+          "product_price": 54900,
+          "original_price": 61200,
+          "deal_description": "Harga Spesial",
+          "image_url": null,
+          "product_brand": "SGM"
+        },
+        {
+          "product_name": "VIDORAN XMART 1+ Madu/Vanila 925g box",
+          "product_price": 65900,
+          "original_price": 75200,
+          "deal_description": "Harga Spesial",
+          "image_url": null,
+          "product_brand": "VIDORAN"
+        },
+        {
+          "product_name": "MILNA Crunch Cheese/Berries with Yoghurt 20g box",
+          "product_price": 15000,
+          "original_price": 20000,
+          "deal_description": "Harga 2 Pcs, Hemat 30%",
+          "image_url": null,
+          "product_brand": "MILNA"
+        },
+        {
+          "product_name": "DANCOW 5+ Madu/Vanila 350g box",
+          "product_price": 37900,
+          "original_price": 39900,
+          "deal_description": null,
+          "image_url": null,
+          "product_brand": "DANCOW"
+        },
+        {
+          "product_name": "DANCOW Fortigro Choco Crunch 346.5g box",
+          "product_price": 40900,
+          "original_price": 50900,
+          "deal_description": null,
+          "image_url": null,
+          "product_brand": "DANCOW"
+        },
+        {
+          "product_name": "S-26 PROCAL GOLD 3 Vanilla 900g klg",
+          "product_price": 320500,
+          "original_price": 352500,
+          "deal_description": null,
+          "image_url": null,
+          "product_brand": "S-26"
+        },
+        {
+          "product_name": "SGM EKSPLOR 5+ Madu 575g box",
+          "product_price": 48900,
+          "original_price": 53400,
+          "deal_description": null,
+          "image_url": null,
+          "product_brand": "SGM"
+        },
+        {
+          "product_name": "SGM EKSPLOR 5+ Madu 575g box",
+          "product_price": 45200,
+          "original_price": 53400,
+          "deal_description": "Beli 2 Harga/box",
+          "image_url": null,
+          "product_brand": "SGM"
+        },
+        {
+          "product_name": "NUTRICIA NUTRILON Royal 4 Vanila 400g box",
+          "product_price": 102500,
+          "original_price": 106000,
+          "deal_description": "Beli 2 Harga/box",
+          "image_url": null,
+          "product_brand": "NUTRICIA NUTRILON"
+        },
+        {
+          "product_name": "BEBELAC GOLD 3 Vanila 360g box",
+          "product_price": 70500,
+          "original_price": 78500,
+          "deal_description": null,
+          "image_url": null,
+          "product_brand": "BEBELAC"
+        },
+        {
+          "product_name": "BEBELAC GOLD 3 Vanila 360g box",
+          "product_price": 62900,
+          "original_price": 78500,
+          "deal_description": "Beli 2 Harga/box",
+          "image_url": null,
+          "product_brand": "BEBELAC"
+        },
+        {
+          "product_name": "VIDORAN XMART 5+ Madu 925g box",
+          "product_price": 60900,
+          "original_price": 67400,
+          "deal_description": null,
+          "image_url": null,
+          "product_brand": "VIDORAN"
+        },
+        {
+          "product_name": "PRENAGEN MOMMY Velvety Choco 360g box",
+          "product_price": 77900,
+          "original_price": 85800,
+          "deal_description": null,
+          "image_url": null,
+          "product_brand": "PRENAGEN"
+        },
+        {
+          "product_name": "DIABETASOL Vanilla 570g box",
+          "product_price": 154500,
+          "original_price": 167200,
+          "deal_description": null,
+          "image_url": null,
+          "product_brand": "DIABETASOL"
+        },
+        {
+          "product_name": "ENTRASOL GOLD Vanila 2x280/290g box",
+          "product_price": 105500,
+          "original_price": 117000,
+          "deal_description": null,
+          "image_url": null,
+          "product_brand": "ENTRASOL"
+        },
+        {
+          "product_name": "ENTRASOL Susu Steril Ekstrak Buah Zaitun 180ml klg",
+          "product_price": 6900,
+          "original_price": 10000,
+          "deal_description": null,
+          "image_url": null,
+          "product_brand": "ENTRASOL"
+        },
+        {
+          "product_name": "HILO PLATINUM Swiss Chocolate 420g box",
+          "product_price": 84900,
+          "original_price": 99900,
+          "deal_description": null,
+          "image_url": null,
+          "product_brand": "HILO"
+        },
+        {
+          "product_name": "PROMINA Softcorn Buttermilk/Strawberry Yogurt 15g box",
+          "product_price": 14900,
+          "original_price": 17600,
+          "deal_description": "Harga 2 Pcs",
+          "image_url": null,
+          "product_brand": "PROMINA"
+        },
+        {
+          "product_name": "CAP ENAAK Krimer Kental Manis Putih 545g pch",
+          "product_price": 14500,
+          "original_price": 17000,
+          "deal_description": null,
+          "image_url": null,
+          "product_brand": "CAP ENAAK"
+        },
+        {
+          "product_name": "CAP ENAAK Krimer Kental Manis Putih 6x37g pck",
+          "product_price": 7500,
+          "original_price": 7900,
+          "deal_description": null,
+          "image_url": null,
+          "product_brand": "CAP ENAAK"
+        },
+        {
+          "product_name": "INDOMILK Kental Manis Swiss Choco/Putih 6x37g pck",
+          "product_price": 7900,
+          "original_price": 8400,
+          "deal_description": null,
+          "image_url": null,
+          "product_brand": "INDOMILK"
+        }
+      ]
+    },
+    {
+      "page_name": "page_009.png",
+      "extracted_data": [
+        {
+          "item_name": "PUCUK HARUM Minuman Teh Melati",
+          "unit": "btl",
+          "original_price": 13400,
+          "final_price": 10500,
+          "promo_type": "discount",
+          "additional_info": "1300ml, HEMAT 20%"
+        },
+        {
+          "item_name": "V-SOY Soya Bean Cocoa",
+          "unit": "btl",
+          "original_price": 13600,
+          "final_price": 10800,
+          "promo_type": "discount",
+          "additional_info": "300ml, PRODUK BARU"
+        },
+        {
+          "item_name": "INDOMILK KIDS Susu Cair UHT",
+          "unit": "tpk",
+          "original_price": 3300,
+          "final_price": 3000,
+          "promo_type": "discount",
+          "additional_info": "115ml, semua varian"
+        },
+        {
+          "item_name": "INDOMILK Susu Cair UHT",
+          "unit": "tpk",
+          "original_price": 19500,
+          "final_price": 17500,
+          "promo_type": "discount",
+          "additional_info": "950ml, Cokelat/Plain"
+        },
+        {
+          "item_name": "DIAMOND Milk",
+          "unit": "tpk",
+          "original_price": 5700,
+          "final_price": 4900,
+          "promo_type": "discount",
+          "additional_info": "200ml, Cokelat/Marshmallow/Bubble Gum"
+        },
+        {
+          "item_name": "BEBELAC 1+ Susu Cair UHT",
+          "unit": "tpk",
+          "original_price": 5900,
+          "final_price": 5400,
+          "promo_type": "discount",
+          "additional_info": "105ml, Plain/Chocolate"
+        },
+        {
+          "item_name": "KIRANTI Minuman Sehat Datang Bulan Juice",
+          "unit": "btl",
+          "original_price": 7800,
+          "final_price": 6500,
+          "promo_type": "discount",
+          "additional_info": "150ml, Lychee/Berry"
+        },
+        {
+          "item_name": "NESTLE Air Mineral Pure Life",
+          "unit": "pcs",
+          "original_price": 6800,
+          "final_price": 5500,
+          "promo_type": "bundle",
+          "additional_info": "600ml, 2 Pcs Lebih Hemat"
+        },
+        {
+          "item_name": "CRYSTALIN Air Mineral",
+          "unit": "btl",
+          "original_price": 3300,
+          "final_price": 2900,
+          "promo_type": "discount",
+          "additional_info": "600ml"
+        },
+        {
+          "item_name": "NU Yogurt Tea",
+          "unit": "pcs",
+          "original_price": 14000,
+          "final_price": 8900,
+          "promo_type": "bundle",
+          "additional_info": "450ml, Original/Berry Crush/Green Tea Honey, 2 Pcs Lebih Hemat"
+        },
+        {
+          "item_name": "LUWAK White Koffie",
+          "unit": "btl",
+          "original_price": null,
+          "final_price": 5000,
+          "promo_type": "special_price",
+          "additional_info": "220ml, Original/Kopi + Gula, Harga Spesial"
+        },
+        {
+          "item_name": "COCA COLA/SPRITE/FANTA Soft Drink",
+          "unit": "btl",
+          "original_price": 10000,
+          "final_price": 8500,
+          "promo_type": "discount",
+          "additional_info": "1L, semua varian"
+        },
+        {
+          "item_name": "COCA COLA/SPRITE/FANTA Soft Drink",
+          "unit": "btl",
+          "original_price": 5400,
+          "final_price": 5000,
+          "promo_type": "discount",
+          "additional_info": "390ml, semua varian"
+        },
+        {
+          "item_name": "NUTRIVE BENECOL",
+          "unit": "pcs",
+          "original_price": 19000,
+          "final_price": 16000,
+          "promo_type": "bundle",
+          "additional_info": "100ml, semua varian, 2 Pcs Lebih Hemat"
+        },
+        {
+          "item_name": "AMO Susu Soda",
+          "unit": "btl",
+          "original_price": null,
+          "final_price": 4500,
+          "promo_type": "bundle",
+          "additional_info": "200ml, Dreamy Strawberry/Fizzy Easy Original, Tambah Rp2000 dapat 2 pcs"
+        },
+        {
+          "item_name": "AJE BIG Soft Drink Nipis Madu",
+          "unit": "btl",
+          "original_price": 3600,
+          "final_price": 2900,
+          "promo_type": "discount",
+          "additional_info": "350ml"
+        },
+        {
+          "item_name": "GROOVY Root Brew",
+          "unit": "klg",
+          "original_price": 7500,
+          "final_price": 5900,
+          "promo_type": "discount",
+          "additional_info": "330ml"
+        },
+        {
+          "item_name": "POLARIS Soft Drink Sarsaparila",
+          "unit": "klg",
+          "original_price": null,
+          "final_price": null,
+          "promo_type": "buy_n_get_m",
+          "additional_info": "330ml, HEMAT 50%, Beli 1 Gratis 1"
+        },
+        {
+          "item_name": "LASEGAR TWIST Jeruk Lemon",
+          "unit": "klg",
+          "original_price": null,
+          "final_price": null,
+          "promo_type": "buy_n_get_m",
+          "additional_info": "320ml, HEMAT 50%, Beli 1 Gratis 1"
+        }
+      ]
+    },
+    {
+      "page_name": "page_010.png",
+      "extracted_data": [
+        {
+          "product_name": "HEMAVITON Energy Drink",
+          "price": "4.500",
+          "unit": "Btl",
+          "additional_info": "150ml"
+        },
+        {
+          "product_name": "EXTRA JOSS Energy Drink Ultimate",
+          "price": "6.900",
+          "unit": "Klg",
+          "additional_info": "250ml"
+        },
+        {
+          "product_name": "IF Coconut Water Drink",
+          "price": "9.900",
+          "unit": "Btl",
+          "additional_info": "350ml"
+        },
+        {
+          "product_name": "KAKI TIGA Larutan Penyegar",
+          "price": "7.500",
+          "unit": "Btl",
+          "additional:info": "500ml"
+        },
+        {
+          "product_name": "DELMONTE BOBA Red Velvet/Matcha",
+          "price": "7.900",
+          "unit": "Klg",
+          "additional_info": "240ml"
+        },
+        {
+          "product_name": "PRINGLES Potato Crisps Original/Cheesy Cheese/SourCreme & Onion",
+          "price": "22.900",
+          "unit": "Klg",
+          "additional_info": "102g, HARGA SPESIAL"
+        },
+        {
+          "product_name": "INDOMARET Mix Nuts",
+          "price": "20.900",
+          "unit": "Klg",
+          "additional_info": "80g pch"
+        },
+        {
+          "product_name": "PIA 100 Kue Pia Kacang Hijau/Cokelat",
+          "price": "12.500",
+          "unit": "Pck",
+          "additional_info": "138g"
+        },
+        {
+          "product_name": "CHUBA Keripik Singkong Chili Balado/Barbeque",
+          "price": "10.900",
+          "unit": "Pck",
+          "additional_info": "125g"
+        },
+        {
+          "product_name": "GARUDA Kacang Panggang Rosta Bawang/Pedas/Wagyu/Jagung Bakar",
+          "price": "8.900",
+          "unit": "Pck",
+          "additional_info": "90g"
+        },
+        {
+          "product_name": "KATA OMA Telur Gabus Keju/Sambal Balado",
+          "price": "11.900",
+          "unit": "Pch",
+          "additional_info": "50g"
+        },
+        {
+          "product_name": "TAO KAE NOI Crispy Seaweed Big Sheet Classic/Spicy Garlic Mayo",
+          "price": "4.900",
+          "unit": "Pck",
+          "additional_info": "4/3.2g"
+        },
+        {
+          "product_name": "RELAXA Candy Barley Mint",
+          "price": "6.900",
+          "unit": "Pck",
+          "additional_info": "108g"
+        },
+        {
+          "product_name": "SUPER ZUPER Assorted Sour Candy",
+          "price": "9.900",
+          "unit": "Pck",
+          "additional_info": "125g"
+        },
+        {
+          "product_name": "SMAX Ring Cheese",
+          "price": "5.500",
+          "unit": "Pck",
+          "additional_info": "40g. TAMBAH Rp3000 DAPAT 2 PCS"
+        },
+        {
+          "product_name": "Gratis 1btl Sprite Zero Sugar 390ml",
+          "price": "Gratis",
+          "unit": "",
+          "additional_info": "*Berlaku kelipatan (dengan pembelian tiket transportasi)"
+        }
+      ]
+    },
+    {
+      "page_name": "page_012.png",
+      "extracted_data": [
+        {
+          "product_name": "REGAL Marie Spesial 230g",
+          "price": "Rp 25.000",
+          "original_price": "Rp 30.000",
+          "unit": "Pck"
+        },
+        {
+          "product_name": "LOTTE Choco Pie Marshmallow 6's 156g",
+          "price": "Rp 13.900",
+          "original_price": "Rp 18.000",
+          "unit": "Box"
+        },
+        {
+          "product_name": "OREO Sandwich 110.4g",
+          "price": "Rp 8.900",
+          "original_price": "Rp 9.700",
+          "unit": "Pck",
+          "variants": "Original/Chocolate Creme/Strawberry Creeme/Ice Cream Blueberry"
+        },
+        {
+          "product_name": "GOOD TIME Cookies Chocochips 72g",
+          "price": "Rp 6.500",
+          "original_price": "Rp 9.000",
+          "unit": "Pck",
+          "variants": "Classic/Double Choc/Rainbow"
+        },
+        {
+          "product_name": "BRIO Go Potato Crispy Biskuit",
+          "price": "Rp 3.900",
+          "original_price": "Rp 5.200",
+          "unit": "Pck",
+          "variants": "Original 56g/BBQ 49g"
+        },
+        {
+          "product_name": "GLICO Pocky",
+          "price": "Rp 6.900",
+          "original_price": "Rp 8.000",
+          "unit": "Box",
+          "variants": "Chocolate 47g/Strawberry 45g/Double Choco 47g/Matcha 33g/Cookies & Cream 40g"
+        },
+        {
+          "product_name": "KUSUKA Keripik Singkong 180g",
+          "price": "Rp 15.800",
+          "original_price": "Rp 16.800",
+          "unit": "Pck",
+          "variants": "Original/Balado/BBQ"
+        },
+        {
+          "product_name": "CHITATO/CHITATO LITE Snack Potato Chips",
+          "price": "Rp 15.500",
+          "original_price": "Rp 16.800",
+          "unit": "Pck",
+          "variants": "Nori Seaweed 115g/Sapi Panggang 120g"
+        },
+        {
+          "product_name": "TIC TIC Crunchy Stick Bawang 135g",
+          "price": "Rp 12.900",
+          "original_price": "Rp 15.900",
+          "unit": "Pck"
+        },
+        {
+          "product_name": "REBO Kuaci 140g",
+          "price": "Rp 12.900",
+          "original_price": "Rp 16.900",
+          "unit": "Pch",
+          "variants": "Original/Milk/caramel/Green Tea/Coconut"
+        },
+        {
+          "product_name": "MAMASUKA Rumput Laut Panggang Nori 2x4.5g",
+          "price": "Rp 12.500",
+          "original_price": "Rp 16.500",
+          "unit": "Pck",
+          "variants": "semua varian"
+        },
+        {
+          "product_name": "TOS TOS Tortilla Chips 140g",
+          "price": "Rp 8.900",
+          "original_price": "Rp 12.300",
+          "unit": "Pck",
+          "variants": "Roasted Corn/Korean BBQ"
+        },
+        {
+          "product_name": "INDOMARET Mie Instant Cup Noodle",
+          "price": "Rp 6.900",
+          "original_price": "Rp 7.900",
+          "unit": "Cup",
+          "variants": "Ayam Pedas 90g/Mi Goreng Pedas 92g/ala Indonesia 88g"
+        },
+        {
+          "product_name": "INDOMARET Lada Putih Bubuk 50g",
+          "price": "Rp 13.500",
+          "original_price": "Rp 14.900",
+          "unit": "Btl"
+        },
+        {
+          "product_name": "BIHUNKU",
+          "price": "Rp 2.900",
+          "original_price": "Rp 4.000",
+          "unit": "Pck",
+          "variants": "Bihun Goreng Spesial 60g/Soto Spesial/Ayam Bawang 55g"
+        },
+        {
+          "product_name": "PROCHIZ GOLD Keju Cheddar",
+          "price": "Rp 10.900",
+          "original_price": "Rp 15.700",
+          "unit": "Box",
+          "variants": "170/160g"
+        },
+        {
+          "product_name": "INDOMIE",
+          "price": "Rp 14.000",
+          "original_price": "Rp 15.500",
+          "unit": "5 Pcs",
+          "variants": "Ayam Bawang/Soto Mie/Soto Spesial/Ayam Spesial/Kaldu Ayam/Kaldu Udang/Soto Koya Dower/Soto Koya Nagih pck"
+        },
+        {
+          "product_name": "SARIMI Isi 2 125g",
+          "price": "Rp 10.000",
+          "original_price": "Rp 12.300",
+          "unit": "3 Pcs",
+          "variants": "Ayam Kremes/Ayam Kecap/Kari Spesial/Ayam Pedas Korea pck"
+        },
+        {
+          "product_name": "POP MIE Instan 75g",
+          "price": "Rp 10.000",
+          "original_price": "Rp 11.600",
+          "unit": "2 Pcs",
+          "variants": "Pedes Dower/Goreng Pedes Gledek/Pedes Dower Pangsit Jontor cup"
+        },
+        {
+          "product_name": "GAGA Mie Instant 100 Extra Pedas Jalapeno",
+          "price": "Rp 2.800",
+          "original_price": "Rp 3.500",
+          "unit": "Pch",
+          "variants": "Kuah 75g/Goreng 85g pck"
+        },
+        {
+          "product_name": "GAGA 100 Mie Instant Cup 75g",
+          "price": "Rp 5.500",
+          "original_price": "Rp 6.500",
+          "unit": "Cup",
+          "variants": "Kuah/Goreng Extra Pedas Jalapeno/Soto"
+        },
+        {
+          "product_name": "GAGA Sarden Saus Tomat & Cabe 155g",
+          "price": "Rp 10.900",
+          "original_price": "Rp 12.400",
+          "unit": "Klg"
+        }
+      ]
+    },
+    {
+      "page_name": "page_014.png",
+      "extracted_data": [
+        {
+          "product_name": "HEAD & SHOULDERS Shampoo A/D semua varian",
+          "normal_price": 63100,
+          "promo_price": 46400,
+          "size": "300/330ml",
+          "unit": "btl",
+          "other_info": "Hemat 25%"
+        },
+        {
+          "product_name": "BELLAGIO Homme Pomade High Shine & Strong Hold Red/ Nat.Shine & Extreme Hold Black",
+          "normal_price": null,
+          "promo_price": null,
+          "size": "80g",
+          "unit": "klg",
+          "other_info": "Tiap beli 1 klg GRATIS 1 klg BELLAGIO Kidz Bubblegum 40g klg"
+        },
+        {
+          "product_name": "KAO BIORE Fac.Foam Men's semua varian",
+          "normal_price": 35900,
+          "promo_price": 26900,
+          "size": "100g",
+          "unit": "tub",
+          "other_info": "Harga Spesial"
+        },
+        {
+          "product_name": "SHINZU'I Whiteessntial Facial Wash Acne Calm Cica/ Skin Light/ Brghtng",
+          "normal_price": 30400,
+          "promo_price": 22900,
+          "size": "80ml",
+          "unit": "tub",
+          "other_info": "Hemat 20%"
+        },
+        {
+          "product_name": "WARDAH Micellar Water semua Varian",
+          "normal_price": 33500,
+          "promo_price": 27500,
+          "size": "100ml",
+          "unit": "btl",
+          "other_info": "Setiap pembelian produk Wardah Face Care senilai Rp 60.000, akan mendapatkan POTONGAN Rp 10.000"
+        },
+        {
+          "product_name": "WARDAH Aloe Cica Low ph Facial Wash",
+          "normal_price": 34500,
+          "promo_price": 30500,
+          "size": "100ml",
+          "unit": "tub",
+          "other_info": "Setiap pembelian produk Wardah Face Care senilai Rp 60.000, akan mendapatkan POTONGAN Rp 10.000"
+        },
+        {
+          "product_name": "WARDAH Perfect Bright Face Wash semua varian",
+          "normal_price": 35700,
+          "promo_price": 29900,
+          "size": "100ml",
+          "unit": "tub",
+          "other_info": "Setiap pembelian produk Wardah Face Care senilai Rp 60.000, akan mendapatkan POTONGAN Rp 10.000"
+        },
+        {
+          "product_name": "WARDAH Symradiance Bright & Barrier Gel Moisturizer",
+          "normal_price": 46500,
+          "promo_price": 39900,
+          "size": "30g",
+          "unit": "pot",
+          "other_info": "Setiap pembelian produk Wardah Face Care senilai Rp 60.000, akan mendapatkan POTONGAN Rp 10.000"
+        },
+        {
+          "product_name": "WARDAH UV Shield Acne Calming Sunscreen SPF35",
+          "normal_price": 39500,
+          "promo_price": 32500,
+          "size": "35ml",
+          "unit": "tub",
+          "other_info": "Setiap pembelian produk Wardah Face Care senilai Rp 60.000, akan mendapatkan POTONGAN Rp 10.000"
+        },
+        {
+          "product_name": "WARDAH UV Shield Airy Sunscreen SPF50",
+          "normal_price": 39500,
+          "promo_price": 32500,
+          "size": "25ml",
+          "unit": "tub",
+          "other_info": "Setiap pembelian produk Wardah Face Care senilai Rp 60.000, akan mendapatkan POTONGAN Rp 10.000"
+        },
+        {
+          "product_name": "GARNIER Bright Complete Vit C Facial Wash/ Scrub/ Sakura Glow Hyaluron Face Wash",
+          "normal_price": 41300,
+          "promo_price": 29900,
+          "size": "100ml",
+          "unit": "tub",
+          "other_info": ""
+        },
+        {
+          "product_name": "GARNIER Niacinamide/ Vitamin C/ Salicylic Dry Touch Cream",
+          "normal_price": 49900,
+          "promo_price": 46900,
+          "size": "30ml",
+          "unit": "pot",
+          "other_info": ""
+        },
+        {
+          "product_name": "L'OREAL Elseve Glycolic Gloss Conditioner/ Shampoo/ Fall Resist Anti Hairfall/ Hyaluron Pure Shampoo",
+          "normal_price": 34900,
+          "promo_price": 32900,
+          "size": "200ml",
+          "unit": "btl",
+          "other_info": ""
+        },
+        {
+          "product_name": "POND'S Pembersih Wjh Facial Foam Pure Bright/ Charcoal/ Bright Beauty/ Niasorcinol",
+          "normal_price": null,
+          "promo_price": 24900,
+          "size": "100g",
+          "unit": "tub",
+          "other_info": "Harga Spesial"
+        },
+        {
+          "product_name": "POND'S Pelembab Wjh Age Miracle Hexyl-Rtnl Night Crm/ Day Cream",
+          "normal_price": 42300,
+          "promo_price": 27500,
+          "size": "10g",
+          "unit": "pot",
+          "other_info": "Hemat 30%"
+        },
+        {
+          "product_name": "SUNSILK Shampoo semua varian",
+          "normal_price": 29900,
+          "promo_price": 19900,
+          "size": "170/160ml",
+          "unit": "btl",
+          "other_info": ""
+        },
+        {
+          "product_name": "AZARINE Hydrasoothe Sunscreen Gel SPF 45 PA++++",
+          "normal_price": 38300,
+          "promo_price": 32500,
+          "size": "30ml",
+          "unit": "tub",
+          "other_info": ""
+        },
+        {
+          "product_name": "AZARINE Calm My Acne Sunscreen Moist. SPF 35 PA+++",
+          "normal_price": 38300,
+          "promo_price": 32500,
+          "size": "40ml",
+          "unit": "tub",
+          "other_info": ""
+        },
+        {
+          "product_name": "SCARLETT Ultra Light Daily Sunscreen SPF 50 PA+++",
+          "normal_price": 39900,
+          "promo_price": 36900,
+          "size": "30ml",
+          "unit": "tub",
+          "other_info": ""
+        },
+        {
+          "product_name": "CBD Keratin Pro Dialy Hair Mask / Color Shield Hairmask",
+          "normal_price": 9900,
+          "promo_price": 8700,
+          "size": "30+5g",
+          "unit": "sct",
+          "other_info": ""
+        },
+        {
+          "product_name": "NYU Henna Shampoo Natural Brown/ Black",
+          "normal_price": 13500,
+          "promo_price": 12500,
+          "size": "20ml",
+          "unit": "sct",
+          "other_info": ""
+        }
+      ]
+    },
+    {
+      "page_name": "page_018.png",
+      "extracted_data": [
+        {
+          "box_content": "Obat & Kesehatan",
+          "page_number": 18,
+          "promo_period": "13 - 26 November 2025"
+        },
+        {
+          "box_content": "EJ Sport Suplemen Go Extra Level Orange 2X50 ml pck",
+          "original_price": 21300,
+          "promo_price": 19900,
+          "product_name": "EJ Sport Suplemen Go Extra Level Orange",
+          "quantity": "2x50 ml"
+        },
+        {
+          "box_content": "CHARM Pembalut Safe Night 12/11'S Gathers Wing 35Cm pck",
+          "original_price": 24700,
+          "promo_price": 15900,
+          "product_name": "CHARM Pembalut Safe Night Gathers Wing",
+          "quantity": "12/11's"
+        },
+        {
+          "box_content": "SOFTEX Pembalut DS 30S Wing 23cm/ 24S Wing 29Cm/ 18S Slim Wing 36Cm pck",
+          "original_price": 28900,
+          "promo_price": 25500,
+          "product_name": "SOFTEX Pembalut DS Wing/Slim Wing",
+          "quantity": "30s/24s/18s"
+        },
+        {
+          "box_content": "SOFTEX Pembalut Daun Sirih 3in1 16'S pck",
+          "original_price": 26200,
+          "promo_price": 23500,
+          "product_name": "SOFTEX Pembalut Daun Sirih 3in1",
+          "quantity": "16's"
+        },
+        {
+          "box_content": "SOFTEX Pembalut Wanita Comfort 20/ 18S Night Wing 29Cm/ 12S 36Cm pck",
+          "original_price": 20700,
+          "promo_price": 18900,
+          "product_name": "SOFTEX Pembalut Wanita Comfort/Night Wing",
+          "quantity": "20s/18s/12s"
+        },
+        {
+          "box_content": "LAURIER Pembalut Relax Night 12s 35cm/ 16s 30cm pck",
+          "original_price": 19900,
+          "promo_price": 15900,
+          "product_name": "LAURIER Pembalut Relax Night",
+          "quantity": "12s/16s"
+        },
+        {
+          "box_content": "LAURIER Pembalut Relax Night Wing 18s 35cm/ 24s 30cm pck",
+          "original_price": 27500,
+          "promo_price": 23500,
+          "product_name": "LAURIER Pembalut Relax Night Wing",
+          "quantity": "18s/24s"
+        },
+        {
+          "box_content": "LAURIER Pembalut Natural Clean Wing 16s 30cm / 12s 35cm / Rlx Night 8s with Gathers Wing 40cm pck",
+          "original_price": 24900,
+          "promo_price": 19500,
+          "product_name": "LAURIER Pembalut Natural Clean Wing/Rlx Night with Gathers",
+          "quantity": "16s/12s/8s"
+        },
+        {
+          "box_content": "MY BABY Minyak Telon Plus Longer Protection 60ml btl",
+          "original_price": 20100,
+          "promo_price": 13500,
+          "product_name": "MY BABY Minyak Telon Plus Longer Protection",
+          "quantity": "60ml"
+        },
+        {
+          "box_content": "CUSSONS Baby Minyak Telon Plus 60ml btl",
+          "original_price": 18500,
+          "promo_price": 14900,
+          "product_name": "CUSSONS Baby Minyak Telon Plus",
+          "quantity": "60ml"
+        },
+        {
+          "box_content": "HISAMITSU Plester Kompres Demam Anak Bye Bye-Fever 5CmxllCm pck",
+          "original_price": 12700,
+          "promo_price": 10000,
+          "product_name": "HISAMITSU Plester Kompres Demam Anak Bye Bye-Fever",
+          "quantity": "pck"
+        },
+        {
+          "box_content": "SALONPAS Pain Relief Patch 5'S pck",
+          "original_price": 32900,
+          "promo_price": 24500,
+          "product_name": "SALONPAS Pain Relief Patch",
+          "quantity": "5's"
+        },
+        {
+          "box_content": "FRESHCARE Minyak Angin Aroma Therapy Strong 15+5ml btl",
+          "original_price": 21900,
+          "promo_price": 14900,
+          "product_name": "FRESHCARE Minyak Angin Aroma Therapy Strong",
+          "quantity": "15+5ml"
+        },
+        {
+          "box_content": "CAP LANG Minyak Kayu Putih Aromatherapy/ Ekaliptus Aromatherapy Lavender 60ml btl",
+          "original_price": 30900,
+          "promo_price": 20900,
+          "product_name": "CAP LANG Minyak Kayu Putih Aromatherapy Ekaliptus/Lavender",
+          "quantity": "60ml"
+        },
+        {
+          "box_content": "INSTO Obat Tetes Mata Cool 7.5ml btl",
+          "original_price": null,
+          "promo_price": 15700,
+          "product_name": "INSTO Obat Tetes Mata Cool",
+          "quantity": "7.5ml"
+        },
+        {
+          "box_content": "Tiap beli 1 btl HANSAPLAST Antiseptik Pembersih Luka 40ml GRATIS 1 pch MAMA Lemon/ MAMA Lime Pencuci Piring 690g/ 680ml semua varian",
+          "original_price": null,
+          "promo_price": null,
+          "product_name": "HANSAPLAST Antiseptik Pembersih Luka",
+          "quantity": "40ml"
+        },
+        {
+          "box_content": "MAGIC POWER Antiseptic Wet Tissue Ice Blast/ Classic 6's box",
+          "original_price": 16500,
+          "promo_price": 15500,
+          "product_name": "MAGIC POWER Antiseptic Wet Tissue Ice Blast/Classic",
+          "quantity": "6's"
+        },
+        {
+          "box_content": "FAVOUR Character Facial Tissue 2Ply Gentle Touch 200'S pck",
+          "original_price": 14900,
+          "promo_price": 9900,
+          "product_name": "FAVOUR Character Facial Tissue 2Ply Gentle Touch",
+          "quantity": "200's"
+        },
+        {
+          "box_content": "KAGUMI Deo Scent Coffee/ Thai Mango pck",
+          "original_price": 26900,
+          "promo_price": 22500,
+          "product_name": "KAGUMI Deo Scent Coffee/Thai Mango",
+          "quantity": "pck"
+        },
+        {
+          "box_content": "BAGUS Sarung Tangan Plastik 100's box",
+          "original_price": 19900,
+          "promo_price": 15900,
+          "product_name": "BAGUS Sarung Tangan Plastik",
+          "quantity": "100's"
+        },
+        {
+          "box_content": "HISAMITSU Plester Kompres Demam Dewasa Bye Bye-Fever 5Cmx13cm pck",
+          "original_price": null,
+          "promo_price": null,
+          "product_name": "HISAMITSU Plester Kompres Demam Dewasa Bye Bye-Fever",
+          "quantity": "pck"
+        }
+      ]
+    },
+    {
+      "page_name": "page_021.png",
+      "extracted_data": {
+        "brand": "Point Coffee",
+        "promotion_title": "ANIME SERIES",
+        "start_date": "2025-11-01",
+        "offers": [
+          {
+            "deal_description": "BELI 1 ANIME SERIES",
+            "price": "30rb",
+            "original_price": "40rb",
+            "items": [
+              {
+                "name": "Almond Cream Latte",
+                "category": "Anime Series"
+              },
+              {
+                "name": "Blue Elixir",
+                "category": "Anime Series"
+              },
+              {
+                "name": "Peanut Butter Latte",
+                "category": "Anime Series"
+              }
+            ],
+            "free_item": "Cup Anime",
+            "notes": "Large Cup"
+          },
+          {
+            "deal_description": "BELI 1 MINUMAN UPSIZE",
+            "price": "36rb",
+            "original_price": "40rb",
+            "items": [],
+            "free_item": "Cup Anime",
+            "notes": "* Kecuali Anime Series, Frappe, Tea Series, Kopi Bawa Pergi"
+          }
+        ],
+        "terms_and_conditions": "* S&K Berlaku",
+        "website": "www.pointcoffee.id",
+        "social_media": {
+          "handle": "@POINTCOFFEEID",
+          "platforms": [
+            "TikTok",
+            "Facebook",
+            "Instagram",
+            "X"
+          ]
+        }
+      }
+    },
+    {
+      "page_name": "page_022.png",
+      "extracted_data": [
+        {
+          "product_name": "MORINAGA CHIL KID 3 Vanilla 780g box",
+          "promo_price": 166900,
+          "original_price": 175000,
+          "quantity": 1
+        },
+        {
+          "product_name": "MORINAGA CHIL KID 3 Madu 780g box",
+          "promo_price": 166900,
+          "original_price": 175000,
+          "quantity": 1
+        },
+        {
+          "product_name": "BEBELAC GOLD 3 SOYA Vanila 700g box",
+          "promo_price": 135900,
+          "original_price": 151500,
+          "quantity": 1
+        },
+        {
+          "product_name": "TROPICANA SLIM Sweetener Diabtx 50x1.8g box",
+          "promo_price": 42900,
+          "original_price": 52300,
+          "quantity": 1
+        },
+        {
+          "product_name": "SENSODYNE Pasta Gigi Fresh Mint 100g tub",
+          "promo_price": 27900,
+          "original_price": 37500,
+          "quantity": 1
+        },
+        {
+          "product_name": "SHINZU'I Body Cleanser Skin Lightening Kirei 500/480ml btl",
+          "promo_price": 50900,
+          "original_price": 55900,
+          "quantity": 1
+        },
+        {
+          "product_name": "ZEN Anti Bacterial Body Wash Shiso & Sandalwood 500/480ml btl",
+          "promo_price": 50900,
+          "original_price": 55900,
+          "quantity": 1
+        },
+        {
+          "product_name": "ROYALE Premium Softener Summer Lovin' 600ml btl",
+          "promo_price": 13900,
+          "original_price": 20000,
+          "quantity": 1
+        },
+        {
+          "product_name": "SNICKERS Chocolate 51g pck",
+          "promo_price": null,
+          "original_price": null,
+          "quantity": 2
+        },
+        {
+          "product_name": "TANGO Wafer Vanilla 133g box",
+          "promo_price": null,
+          "original_price": null,
+          "quantity": 2
+        },
+        {
+          "product_name": "PIATTOS Snack Kentang Sambal Geprek 68g pck",
+          "promo_price": null,
+          "original_price": null,
+          "quantity": 2
+        },
+        {
+          "product_name": "PROCHIZ GOLD Keju Cheddar 170/160g box",
+          "promo_price": null,
+          "original_price": null,
+          "quantity": 2
+        },
+        {
+          "product_name": "DUA KELINCI Kacang Garing 180g pck",
+          "promo_price": null,
+          "original_price": null,
+          "quantity": 2
+        },
+        {
+          "product_name": "DIABETAMIL Sweetener 50's box",
+          "promo_price": null,
+          "original_price": null,
+          "quantity": 1
+        },
+        {
+          "product_name": "CAMPINA Ice Cream Mini Neapolitan 350ml pck",
+          "promo_price": null,
+          "original_price": null,
+          "quantity": 1
+        },
+        {
+          "product_name": "PALDO Bibimen II Mie Goreng 130g pck",
+          "promo_price": null,
+          "original_price": null,
+          "quantity": 1
+        },
+        {
+          "product_name": "SO GOOD Crispy Chicken Nugget Hot 400g pck",
+          "promo_price": null,
+          "original_price": null,
+          "quantity": 1
+        },
+        {
+          "product_name": "CLEAN & CLEAR Oil Control Film Blue 60's pck",
+          "promo_price": null,
+          "original_price": null,
+          "quantity": 1
+        },
+        {
+          "product_name": "CLEAN & CLEAR Oil Control Film Pink 50's pck",
+          "promo_price": null,
+          "original_price": null,
+          "quantity": 1
+        },
+        {
+          "product_name": "DARLIE Pasta Gigi Double Action Fresh Clean 150+25g tub",
+          "promo_price": null,
+          "original_price": null,
+          "quantity": 1
+        },
+        {
+          "product_name": "NIVEA Body Serum Extra Bright C&AHA 170ml tub",
+          "promo_price": null,
+          "original_price": null,
+          "quantity": 1
+        },
+        {
+          "product_name": "SHINZU'I Brightening Serum Sunscreen SPF 35 PA+++ 30ml tub",
+          "promo_price": null,
+          "original_price": null,
+          "quantity": 1
+        },
+        {
+          "product_name": "WARDAH UV Shield Essent SunScreen Gel SPF 30/35 PA+++ 40ml tub",
+          "promo_price": null,
+          "original_price": null,
+          "quantity": 1
+        },
+        {
+          "product_name": "SUNSILK Shampoo Anti Dandruff 160ml btl",
+          "promo_price": null,
+          "original_price": null,
+          "quantity": 1
+        },
+        {
+          "product_name": "KAHF Water Based Pomade Sleek Classy 70g pot",
+          "promo_price": null,
+          "original_price": null,
+          "quantity": 1
+        },
+        {
+          "product_name": "MY BABY Minyak Telon Plus Longer Protection 90ml btl",
+          "promo_price": null,
+          "original_price": null,
+          "quantity": 1
+        },
+        {
+          "product_name": "JOHNSON'S Hair & Body Baby Bath Bed Time 400ml pch",
+          "promo_price": null,
+          "original_price": null,
+          "quantity": 1
+        },
+        {
+          "product_name": "HOT WHEELS Basic Car Assortment pck",
+          "promo_price": null,
+          "original_price": null,
+          "quantity": 1
+        },
+        {
+          "product_name": "WHISKAS Cat Food Pocket Tuna 480g pck",
+          "promo_price": null,
+          "original_price": null,
+          "quantity": 1
+        },
+        {
+          "product_name": "TOTAL Detergent Powder De Perfumee 750g bag",
+          "promo_price": null,
+          "original_price": null,
+          "quantity": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "folder": "Harga Khusus Member",
+  "pages": [
+    {
+      "page_name": "page_001.png",
+      "extracted_data": {
+        "image_id": "",
+        "period": "20 - 26 November 2025",
+        "items": [
+          {
+            "brand": "FORTUNE",
+            "sku_name": "Minyak Goreng 2 L pch",
+            "promo_type": "Harga Spesial",
+            "mechanic": "Khusus Member",
+            "regular_price": "39.800",
+            "promo_price": "Rp 36.500",
+            "confidence": 0.95
+          },
+          {
+            "brand": "SUNPRIDE",
+            "sku_name": "100% Fruit Juice Pineapple Mango 220ml klg",
+            "promo_type": "Hemat 25%",
+            "mechanic": "Member Hemat 25%",
+            "regular_price": "11.900",
+            "promo_price": "Rp 8.900",
+            "confidence": 0.95
+          },
+          {
+            "brand": "PIATTOS",
+            "sku_name": "Snack Kentang Sapi Panggang/ Sambal Geprek 120g pck",
+            "promo_type": "Harga Spesial",
+            "mechanic": "Khusus Member",
+            "regular_price": "15.800",
+            "promo_price": "Rp 13.500",
+            "confidence": 0.95
+          },
+          {
+            "brand": "WINCHEEZ GOLD",
+            "sku_name": "Keju Cheddar Olahan 170g box",
+            "promo_type": "Hemat 35%",
+            "mechanic": "Member Hemat 35%",
+            "regular_price": "15.000",
+            "promo_price": "Rp 9.500",
+            "confidence": 0.95
+          },
+          {
+            "brand": "BANGO",
+            "sku_name": "Kecap Manis 385g btl",
+            "promo_type": "Hemat 25%",
+            "mechanic": "Member Hemat 25%",
+            "regular_price": "24.500",
+            "promo_price": "Rp 17.900",
+            "confidence": 0.95
+          },
+          {
+            "brand": "GADJAH",
+            "sku_name": "Kopi Tubruk Manis 2 in 1 10x25g pck",
+            "promo_type": "Harga Spesial",
+            "mechanic": "Khusus Member",
+            "regular_price": "19.900",
+            "promo_price": "Rp 16.500",
+            "confidence": 0.95
+          },
+          {
+            "brand": "GOOD DAY",
+            "sku_name": "Kopi Instant Latte Original/ Butterscotch 10x22g pck",
+            "promo_type": "Hemat 20%",
+            "mechanic": "Member Hemat 20%",
+            "regular_price": "17.900",
+            "promo_price": "Rp 13.900",
+            "confidence": 0.95
+          },
+          {
+            "brand": "SO FRESH",
+            "sku_name": "Minyak Angin Aromatherapy Hot 2x10ml bdd",
+            "promo_type": "Hemat 30%",
+            "mechanic": "Member Hemat 30%",
+            "regular_price": "15.000",
+            "promo_price": "Rp 10.500",
+            "confidence": 0.95
+          },
+          {
+            "brand": "GLADE",
+            "sku_name": "Car Freshener Sweet Apple 70g pch",
+            "promo_type": "Hemat 25%",
+            "mechanic": "Member Hemat 25%",
+            "regular_price": "12.900",
+            "promo_price": "Rp 9.500",
+            "confidence": 0.95
+          }
+        ]
+      }
+    }
+  ]
+}

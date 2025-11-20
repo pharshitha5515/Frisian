@@ -1,0 +1,131 @@
+{
+  "folder": "Promo Bank Ewallet",
+  "pages": [
+    {
+      "page_name": "page_001.png",
+      "extracted_data": {
+        "image_id": "93ed6e2c-3837-4d92-9bd5-93c683b5443c",
+        "period": "25 OKT - 16 NOV",
+        "items": [
+          {
+            "brand": "Indomaret",
+            "sku_name": "Popcorn Caramel PCK 75G",
+            "promo_type": "Harga Spesial",
+            "mechanic": "Khusus Pengguna Baru ShopeePay",
+            "regular_price": "Rp12.000",
+            "promo_price": "RP1.000",
+            "confidence": 0.98
+          }
+        ]
+      }
+    },
+    {
+      "page_name": "page_002.png",
+      "extracted_data": {
+        "image_id": "908d16d0-994c-47fc-8f74-84617a229864.jpg",
+        "period": "3 OKT - 30 NOV 2025",
+        "items": [
+          {
+            "brand": "GULAKU",
+            "sku_name": "Gula Pasir 1 kg",
+            "promo_type": "Gratis",
+            "mechanic": "Setiap belanja min. Rp 350.000 dengan Mandiri Kartu Kredit",
+            "regular_price": "",
+            "promo_price": "",
+            "confidence": 0.98
+          }
+        ]
+      }
+    },
+    {
+      "page_name": "page_003.png",
+      "extracted_data": {
+        "image_id": "",
+        "period": "1 - 30 NOV 2025",
+        "items": [
+          {
+            "brand": "Rinso",
+            "sku_name": "Detergen Cair 510 ml",
+            "promo_type": "Gratis",
+            "mechanic": "Setiap belanja min. Rp 150.000 dengan Kartu Debit Mandiri Taspen",
+            "regular_price": "",
+            "promo_price": "",
+            "confidence": 0.95
+          }
+        ]
+      }
+    },
+    {
+      "page_name": "page_004.png",
+      "extracted_data": {
+        "image_id": "845c0836-e840-42ab-be97-de6b0b52e259.jpg",
+        "period": "1 NOV - 28 DES 2025",
+        "items": [
+          {
+            "brand": "",
+            "sku_name": "",
+            "promo_type": "Diskon",
+            "mechanic": "Diskon Rp 20.000 setiap belanja min. Rp 300.000 dengan Kartu BSI Hasanah Card",
+            "regular_price": "",
+            "promo_price": "",
+            "confidence": 0.98
+          }
+        ]
+      }
+    },
+    {
+      "page_name": "page_005.png",
+      "extracted_data": {
+        "image_id": "848243b8-6f6a-4933-ac4d-2a819b128509.jpg",
+        "period": "1 Nov - 28 Des 2025",
+        "items": [
+          {
+            "brand": "Semua Brand",
+            "sku_name": "Beras 5 kg",
+            "promo_type": "Diskon Rp 5.000",
+            "mechanic": "Min. transaksi Rp 160.000 (termasuk beras) dengan Kartu Debit BNI. Berlaku tiap Sabtu & Minggu.",
+            "regular_price": "",
+            "promo_price": "",
+            "confidence": 0.98
+          }
+        ]
+      }
+    },
+    {
+      "page_name": "page_006.png",
+      "extracted_data": {
+        "image_id": "c6218f27-6f68-45e3-9828-b99ef7ab1332",
+        "period": "5 Nov - 31 Des 2025",
+        "items": [
+          {
+            "brand": "Minyak Goreng",
+            "sku_name": "Minyak Goreng 1 L",
+            "promo_type": "Diskon",
+            "mechanic": "Diskon Rp 5.000 dengan min. transaksi Rp 160.000 menggunakan Kartu Kredit BNI",
+            "regular_price": "",
+            "promo_price": "",
+            "confidence": 0.95
+          }
+        ]
+      }
+    },
+    {
+      "page_name": "page_007.png",
+      "extracted_data": {
+        "image_id": "",
+        "period": "01 - 30 NOV 2025",
+        "items": [
+          {
+            "brand": "",
+            "sku_name": "All Products (with exclusions)",
+            "promo_type": "Potongan Langsung",
+            "mechanic": "Min. belanja Rp 100.000 dengan Kartu ATM/Debit Bank Capital",
+            "regular_price": "",
+            "promo_price": "Rp 5.000",
+            "confidence": 0.98
+          }
+        ]
+      }
+    }
+  ]
+}

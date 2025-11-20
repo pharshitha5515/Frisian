@@ -1,0 +1,176 @@
+{
+  "folder": "Hemat Minggu Ini",
+  "pages": [
+    {
+      "page_name": "page_001.png",
+      "extracted_data": {
+        "image_id": "flyer_image",
+        "period": "20 - 26 NOV 2025",
+        "items": [
+          {
+            "brand": "SUNLIGHT",
+            "sku_name": "Pencuci Piring Jeruk Nipis/ Lime 910g/Biocare Nature Blueberries 870g pch",
+            "promo_type": "Hemat 20%",
+            "mechanic": "20% off",
+            "regular_price": "15.900",
+            "promo_price": "Rp 12.500",
+            "confidence": 0.95
+          },
+          {
+            "brand": "TROPICAL",
+            "sku_name": "Minyak Goreng 2000ml btl",
+            "promo_type": "Harga Spesial",
+            "mechanic": "",
+            "regular_price": "41.400",
+            "promo_price": "Rp 40.900",
+            "confidence": 0.95
+          },
+          {
+            "brand": "BIMOLI",
+            "sku_name": "Minyak Goreng Refill 2000ml pch",
+            "promo_type": "Harga Spesial",
+            "mechanic": "",
+            "regular_price": "39.500",
+            "promo_price": "Rp 39.400",
+            "confidence": 0.95
+          },
+          {
+            "brand": "FILMA",
+            "sku_name": "Margarine Bernutrisi 200g pck",
+            "promo_type": "Harga Spesial",
+            "mechanic": "",
+            "regular_price": "7.200",
+            "promo_price": "Rp 5.900",
+            "confidence": 0.95
+          },
+          {
+            "brand": "INDOMIE",
+            "sku_name": "Mie Goreng Jumbo Ayam Panggang/ Rendang/Special 129g pck",
+            "promo_type": "3 Lebih Hemat",
+            "mechanic": "3 Lebih Hemat",
+            "regular_price": "12.600",
+            "promo_price": "Rp 11.000",
+            "confidence": 0.95
+          },
+          {
+            "brand": "COLLAGENA",
+            "sku_name": "Susu Steril 189ml klg",
+            "promo_type": "Harga Spesial",
+            "mechanic": "",
+            "regular_price": "12.400",
+            "promo_price": "Rp 9.900",
+            "confidence": 0.95
+          },
+          {
+            "brand": "FRISIAN FLAG",
+            "sku_name": "Susu Cair Uht Cokelat/ Full Cream/Stroberi 225ml tpk",
+            "promo_type": "Harga Spesial",
+            "mechanic": "",
+            "regular_price": "6.300",
+            "promo_price": "Rp 5.000",
+            "confidence": 0.95
+          },
+          {
+            "brand": "YOU C1000",
+            "sku_name": "Health Drink Vitamin Apple/Lemon/Mango 140ml btl",
+            "promo_type": "Harga Spesial",
+            "mechanic": "",
+            "regular_price": "7.800",
+            "promo_price": "Rp 6.900",
+            "confidence": 0.95
+          },
+          {
+            "brand": "PRIM-A",
+            "sku_name": "Air Mineral 600ml btl",
+            "promo_type": "Harga Spesial",
+            "mechanic": "",
+            "regular_price": "3.000",
+            "promo_price": "Rp 2.000",
+            "confidence": 0.95
+          },
+          {
+            "brand": "JAPOTA/POTABEE",
+            "sku_name": "Snack Potato Chips Um.Jpns Seaweed/ Hp Honey, Butter/ Beef Bbq/Grilled Seaweed 115 pck",
+            "promo_type": "Harga Spesial",
+            "mechanic": "",
+            "regular_price": "15.900",
+            "promo_price": "Rp 13.900",
+            "confidence": 0.95
+          },
+          {
+            "brand": "MEIJI",
+            "sku_name": "Biscuit Hello Panda Chocolate/Strawberry/ Double Choco 42g box",
+            "promo_type": "Hemat 25%",
+            "mechanic": "25% off",
+            "regular_price": "8.900",
+            "promo_price": "Rp 5.900",
+            "confidence": 0.95
+          },
+          {
+            "brand": "KAPAL API",
+            "sku_name": "Kopi Bubuk Special 150g pck",
+            "promo_type": "Harga Spesial",
+            "mechanic": "",
+            "regular_price": "24.100",
+            "promo_price": "Rp 20.500",
+            "confidence": 0.95
+          },
+          {
+            "brand": "CLOSE UP",
+            "sku_name": "Pasta Gigi Gel Green Ever Fresh 160g tub",
+            "promo_type": "Hemat 30%",
+            "mechanic": "30% off",
+            "regular_price": "24.300",
+            "promo_price": "Rp 16.900",
+            "confidence": 0.95
+          },
+          {
+            "brand": "MITU",
+            "sku_name": "Baby Wipes 2x40/50's pck semua varian",
+            "promo_type": "Hemat 20%",
+            "mechanic": "20% off",
+            "regular_price": "14.900",
+            "promo_price": "Rp 11.900",
+            "confidence": 0.95
+          },
+          {
+            "brand": "SUNSILK",
+            "sku_name": "Shampoo Glossy Black/Silky Smooth/ Anti Dandruff 320ml btl",
+            "promo_type": "Hemat 30%",
+            "mechanic": "30% off",
+            "regular_price": "52.500",
+            "promo_price": "Rp 34.900",
+            "confidence": 0.95
+          },
+          {
+            "brand": "DAIA",
+            "sku_name": "Detergent Bubuk +Softener 1.6/1.5Kg bag semua varian",
+            "promo_type": "Harga Spesial",
+            "mechanic": "",
+            "regular_price": "28.300",
+            "promo_price": "Rp 24.400",
+            "confidence": 0.95
+          },
+          {
+            "brand": "SO SOFT",
+            "sku_name": "Deterjen Cair 700ml btl semua varian",
+            "promo_type": "Hemat 30%",
+            "mechanic": "30% off",
+            "regular_price": "19.500",
+            "promo_price": "Rp 12.900",
+            "confidence": 0.95
+          },
+          {
+            "brand": "HIT",
+            "sku_name": "Insektisida Spray 600/600+50ml klg semua varian",
+            "promo_type": "Harga Spesial",
+            "mechanic": "",
+            "regular_price": "35.900",
+            "promo_price": "Rp 32.900",
+            "confidence": 0.95
+          }
+        ]
+      }
+    }
+  ]
+}

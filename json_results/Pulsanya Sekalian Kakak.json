@@ -1,0 +1,536 @@
+{
+  "folder": "Pulsanya Sekalian Kakak",
+  "pages": [
+    {
+      "page_name": "page_001.png",
+      "extracted_data": {
+        "image_id": "9935d215-62d4-4e94-b251-1d573f0808a5",
+        "period": "",
+        "items": [
+          {
+            "brand": "Telkomsel",
+            "sku_name": "Perdana eSIM Telkomsel 3GB",
+            "promo_type": "Harga Spesial",
+            "mechanic": "",
+            "regular_price": "",
+            "promo_price": "Rp35ribu",
+            "confidence": 0.95
+          }
+        ]
+      }
+    },
+    {
+      "page_name": "page_002.png",
+      "extracted_data": {
+        "image_id": "45d1df36-5867-4228-a476-d9711674ab0a",
+        "period": "September",
+        "items": [
+          {
+            "brand": "Roblox",
+            "sku_name": "Gift Card Roblox",
+            "promo_type": "Gratis Item Virtual",
+            "mechanic": "Dapatkan Item Virtual Gratis saat me-redeem Gift Card Roblox",
+            "regular_price": "",
+            "promo_price": "",
+            "confidence": 0.95
+          }
+        ]
+      }
+    },
+    {
+      "page_name": "page_003.png",
+      "extracted_data": {
+        "image_id": "84c83fc3-c403-4f93-b6c8-1ac495a6397e",
+        "period": "",
+        "items": [
+          {
+            "brand": "FIFA 365 Adrenalyn XL",
+            "sku_name": "Official Trading Cards",
+            "promo_type": "Tersedia Sekarang",
+            "mechanic": "",
+            "regular_price": "",
+            "promo_price": "",
+            "confidence": 0.85
+          }
+        ]
+      }
+    },
+    {
+      "page_name": "page_004.png",
+      "extracted_data": {
+        "image_id": "893c52a3-2283-4a6c-ad55-a0772714c62c",
+        "period": "",
+        "items": [
+          {
+            "brand": "Telkomsel",
+            "sku_name": "Super Seru Kuota 80GB",
+            "promo_type": "Super Seru",
+            "mechanic": "Kuota hingga 80GB",
+            "regular_price": "",
+            "promo_price": "Rp100ribu",
+            "confidence": 0.95
+          }
+        ]
+      }
+    },
+    {
+      "page_name": "page_005.png",
+      "extracted_data": {
+        "image_id": "a90b8f2d-88b1-4f10-90fe-d61d61596541",
+        "period": "Oktober 2025",
+        "items": [
+          {
+            "brand": "im3",
+            "sku_name": "Kartu Perdana Freedom Internet 3GB/30 hari",
+            "promo_type": "Dapat Ekstra Produk",
+            "mechanic": "Dapat Ekstra 2 Pc Teh Botol Kotak 250ml/ Indomie Goreng",
+            "regular_price": "",
+            "promo_price": "Rp35ribu",
+            "confidence": 0.95
+          }
+        ]
+      }
+    },
+    {
+      "page_name": "page_006.png",
+      "extracted_data": {
+        "image_id": "promo_flyer_1",
+        "period": "Oktober 2025",
+        "items": [
+          {
+            "brand": "Indomie",
+            "sku_name": "Goreng/Ayam Bawang/Soto Mi 80g",
+            "promo_type": "Ekstra Mi Instan",
+            "mechanic": "Beli Pulsa Rp200ribu Ekstra 3 Pcs",
+            "regular_price": "",
+            "promo_price": "",
+            "confidence": 0.95
+          }
+        ]
+      }
+    },
+    {
+      "page_name": "page_007.png",
+      "extracted_data": {
+        "image_id": "84877717-b700-4b07-a359-2ed7982ca80d",
+        "period": "Oktober 2025",
+        "items": [
+          {
+            "brand": "Sovia",
+            "sku_name": "Minyak Goreng 2L",
+            "promo_type": "Free Product",
+            "mechanic": "Beli Freedom Internet 250GB",
+            "regular_price": "",
+            "promo_price": "",
+            "confidence": 0.95
+          },
+          {
+            "brand": "Ultra Milk",
+            "sku_name": "Susu UHT 750ml",
+            "promo_type": "Free Product",
+            "mechanic": "Beli Freedom Internet 80GB",
+            "regular_price": "",
+            "promo_price": "",
+            "confidence": 0.95
+          },
+          {
+            "brand": "Sunlight",
+            "sku_name": "Sabun Cuci Piring 420ml",
+            "promo_type": "Free Product",
+            "mechanic": "Beli Freedom Internet 50GB",
+            "regular_price": "",
+            "promo_price": "",
+            "confidence": 0.95
+          }
+        ]
+      }
+    },
+    {
+      "page_name": "page_008.png",
+      "extracted_data": {
+        "image_id": "",
+        "period": "Oktober 2025",
+        "items": [
+          {
+            "brand": "im3",
+            "sku_name": "Freedom Internet Kuota Utama 28GB /28 hari",
+            "promo_type": "Promo Spesial",
+            "mechanic": "",
+            "regular_price": "Rp80ribu",
+            "promo_price": "Rp72ribu",
+            "confidence": 0.95
+          },
+          {
+            "brand": "im3",
+            "sku_name": "Freedom Internet Kuota Utama 18GB /28 hari",
+            "promo_type": "Promo Spesial",
+            "mechanic": "",
+            "regular_price": "Rp60ribu",
+            "promo_price": "Rp55ribu",
+            "confidence": 0.95
+          }
+        ]
+      }
+    },
+    {
+      "page_name": "page_009.png",
+      "extracted_data": {
+        "image_id": "832d2077-83cd-41e9-9a25-c6595561a0f5",
+        "period": "hingga 31 Desember 2025",
+        "items": [
+          {
+            "brand": "IndiHome",
+            "sku_name": "Paket JITU 1 50 Mbps",
+            "promo_type": "Harga Spesial",
+            "mechanic": "Gratis biaya Pasang Baru",
+            "regular_price": "",
+            "promo_price": "Rp 299 ribu",
+            "confidence": 0.95
+          },
+          {
+            "brand": "IndiHome",
+            "sku_name": "Paket JITU 1 100 Mbps",
+            "promo_type": "Harga Spesial",
+            "mechanic": "Gratis biaya Pasang Baru & Termasuk Langganan IndiHomeTV Disney+ hotstar MAXSTREAM",
+            "regular_price": "",
+            "promo_price": "Rp 375 ribu",
+            "confidence": 0.95
+          }
+        ]
+      }
+    },
+    {
+      "page_name": "page_010.png",
+      "extracted_data": {
+        "image_id": "google_play_promo_01",
+        "period": "hingga 12 Nov 2025",
+        "items": [
+          {
+            "brand": "Google Play",
+            "sku_name": "Voucher 100rb",
+            "promo_type": "Diskon hingga 20%",
+            "mechanic": "Diskon hingga 20%",
+            "regular_price": "100rb",
+            "promo_price": "90rb",
+            "confidence": 0.95
+          },
+          {
+            "brand": "Google Play",
+            "sku_name": "Voucher 150rb",
+            "promo_type": "Diskon hingga 20%",
+            "mechanic": "Diskon hingga 20%",
+            "regular_price": "150rb",
+            "promo_price": "135rb",
+            "confidence": 0.95
+          },
+          {
+            "brand": "Google Play",
+            "sku_name": "Voucher 300rb",
+            "promo_type": "Diskon hingga 20%",
+            "mechanic": "Diskon hingga 20%",
+            "regular_price": "300rb",
+            "promo_price": "270rb",
+            "confidence": 0.95
+          },
+          {
+            "brand": "Google Play",
+            "sku_name": "Voucher 500rb",
+            "promo_type": "Diskon hingga 20%",
+            "mechanic": "Diskon hingga 20%",
+            "regular_price": "500rb",
+            "promo_price": "400rb",
+            "confidence": 0.95
+          }
+        ]
+      }
+    },
+    {
+      "page_name": "page_011.png",
+      "extracted_data": {
+        "image_id": "9d9016e7-18f0-469b-8664-83950293a38b.jpeg",
+        "period": "Periode hingga 31 Desember 2025",
+        "items": [
+          {
+            "brand": "by.U",
+            "sku_name": "SIM Card 3GB",
+            "promo_type": "Gratis Produk",
+            "mechanic": "Beli SIM Card by.U 3GB, Gratis Bengbeng Maxx 32gr",
+            "regular_price": "",
+            "promo_price": "Rp35.000",
+            "confidence": 0.95
+          }
+        ]
+      }
+    },
+    {
+      "page_name": "page_012.png",
+      "extracted_data": {
+        "image_id": "",
+        "period": "25-31 Oktober 2025",
+        "items": [
+          {
+            "brand": "smartfren",
+            "sku_name": "Unlimited Nonstop 12 GB + 18 GB 30 Hari",
+            "promo_type": "Bonus Kuota",
+            "mechanic": "Bonus Kuota 2GB",
+            "regular_price": "",
+            "promo_price": "Rp56.500",
+            "confidence": 0.95
+          },
+          {
+            "brand": "smartfren",
+            "sku_name": "Unlimited Harian 2 GB 28 Hari",
+            "promo_type": "Bonus Kuota",
+            "mechanic": "Bonus Kuota 3GB",
+            "regular_price": "",
+            "promo_price": "Rp91.500",
+            "confidence": 0.95
+          },
+          {
+            "brand": "smartfren",
+            "sku_name": "Unlimited Harian 2 GB 30 Hari",
+            "promo_type": "Bonus Kuota",
+            "mechanic": "Bonus Kuota 3GB",
+            "regular_price": "",
+            "promo_price": "Rp100.000",
+            "confidence": 0.95
+          },
+          {
+            "brand": "smartfren",
+            "sku_name": "Kuota 60 GB 30 Hari",
+            "promo_type": "Bonus Kuota",
+            "mechanic": "Bonus Kuota 3GB",
+            "regular_price": "",
+            "promo_price": "Rp110.000",
+            "confidence": 0.95
+          }
+        ]
+      }
+    },
+    {
+      "page_name": "page_013.png",
+      "extracted_data": {
+        "image_id": "834c7df8-ff53-4318-971c-6d5c64cfb87e",
+        "period": "13-31 Oktober 2025",
+        "items": [
+          {
+            "brand": "SunCo, Tropical",
+            "sku_name": "Minyak Goreng 2L",
+            "promo_type": "GRATIS",
+            "mechanic": "Tukar 4 Stamp",
+            "regular_price": "",
+            "promo_price": "",
+            "confidence": 0.95
+          },
+          {
+            "brand": "Indomie",
+            "sku_name": "6 Bungkus",
+            "promo_type": "GRATIS",
+            "mechanic": "Tukar 2 Stamp",
+            "regular_price": "",
+            "promo_price": "",
+            "confidence": 0.95
+          },
+          {
+            "brand": "Google Play",
+            "sku_name": "Kode Voucher Rp 10.000",
+            "promo_type": "Stamp Redemption",
+            "mechanic": "Tukar 1 Stamp",
+            "regular_price": "",
+            "promo_price": "",
+            "confidence": 0.95
+          },
+          {
+            "brand": "DramaBox",
+            "sku_name": "s/d 200 Coins + Diskon s/d 33%",
+            "promo_type": "Stamp Redemption",
+            "mechanic": "Tukar 1-2 Stamp",
+            "regular_price": "",
+            "promo_price": "",
+            "confidence": 0.95
+          }
+        ]
+      }
+    },
+    {
+      "page_name": "page_014.png",
+      "extracted_data": {
+        "image_id": "84865d6c-674a-4a25-950d-6e545465551f",
+        "period": "1-11 November 2025",
+        "items": [
+          {
+            "brand": "Google Play",
+            "sku_name": "Kartu atau Kode Voucher Google Play",
+            "promo_type": "Diskon hingga 20%",
+            "mechanic": "Diskon hingga 20%",
+            "regular_price": "",
+            "promo_price": "",
+            "confidence": 0.95
+          }
+        ]
+      }
+    },
+    {
+      "page_name": "page_015.png",
+      "extracted_data": {
+        "image_id": "84c8f5f0-6a7f-43b6-96b6-a5cc1ab6c968.jpg",
+        "period": "1 - 31 Oktober 2025",
+        "items": [
+          {
+            "brand": "Sania",
+            "sku_name": "Minyak Goreng 1L",
+            "promo_type": "Bonus Produk",
+            "mechanic": "Beli Paket Isi Ulang Happy 300 GB",
+            "regular_price": "",
+            "promo_price": "",
+            "confidence": 0.95
+          },
+          {
+            "brand": "Sovia",
+            "sku_name": "Minyak Goreng 1L",
+            "promo_type": "Bonus Produk",
+            "mechanic": "Beli Paket Isi Ulang Happy 250 GB",
+            "regular_price": "",
+            "promo_price": "",
+            "confidence": 0.95
+          },
+          {
+            "brand": "Ultra Milk",
+            "sku_name": "Susu UHT semua varian 750ML 1pc",
+            "promo_type": "Bonus Produk",
+            "mechanic": "Beli Paket Isi Ulang Happy 100 GB",
+            "regular_price": "",
+            "promo_price": "",
+            "confidence": 0.95
+          },
+          {
+            "brand": "Sunlight",
+            "sku_name": "Sabun Piring 1pc",
+            "promo_type": "Bonus Produk",
+            "mechanic": "Beli Paket Isi Ulang Happy 50 GB",
+            "regular_price": "",
+            "promo_price": "Rp 9.900",
+            "confidence": 0.9
+          }
+        ]
+      }
+    },
+    {
+      "page_name": "page_016.png",
+      "extracted_data": {
+        "image_id": "",
+        "period": "1 - 31 Oktober 2025",
+        "items": [
+          {
+            "brand": "Happy",
+            "sku_name": "Perdana 3GB /30 hari",
+            "promo_type": "Harga Spesial",
+            "mechanic": "Bisa pilih sendiri hadiahmu",
+            "regular_price": "",
+            "promo_price": "Rp 35 ribu",
+            "confidence": 0.98
+          }
+        ]
+      }
+    },
+    {
+      "page_name": "page_017.png",
+      "extracted_data": {
+        "image_id": "",
+        "period": "1 - 31 Oktober 2025",
+        "items": [
+          {
+            "brand": "Tri",
+            "sku_name": "Paket Happy 20GB / 28 hari",
+            "promo_type": "Update hemat",
+            "mechanic": "",
+            "regular_price": "Rp60 ribu",
+            "promo_price": "Rp 55 ribu",
+            "confidence": 0.95
+          },
+          {
+            "brand": "Tri",
+            "sku_name": "Paket Happy 26GB / 28 hari",
+            "promo_type": "Update hemat",
+            "mechanic": "",
+            "regular_price": "Rp71 ribu",
+            "promo_price": "Rp 64 ribu",
+            "confidence": 0.95
+          },
+          {
+            "brand": "Tri",
+            "sku_name": "Paket Happy 35GB / 28 hari",
+            "promo_type": "Update hemat",
+            "mechanic": "",
+            "regular_price": "Rp91 ribu",
+            "promo_price": "Rp 73 ribu",
+            "confidence": 0.95
+          }
+        ]
+      }
+    },
+    {
+      "page_name": "page_018.png",
+      "extracted_data": {
+        "image_id": "97061d43-559d-4357-a579-be2de2877a5a",
+        "period": "1 - 31 Oktober 2025",
+        "items": [
+          {
+            "brand": "Indomie",
+            "sku_name": "Mie Instan Kuah/ Goreng 80 gr 3pcs",
+            "promo_type": "Ekstra",
+            "mechanic": "Beli pulsa 200 ribu",
+            "regular_price": "",
+            "promo_price": "",
+            "confidence": 0.95
+          }
+        ]
+      }
+    },
+    {
+      "page_name": "page_019.png",
+      "extracted_data": {
+        "image_id": "",
+        "period": "6-15 Nov 2025, 9-15 Nov 2025",
+        "items": [
+          {
+            "brand": "Google Play",
+            "sku_name": "Kartu Voucher Google Play",
+            "promo_type": "Diskon hingga 20%",
+            "mechanic": "Diskon hingga 20%",
+            "regular_price": "",
+            "promo_price": "",
+            "confidence": 0.95
+          },
+          {
+            "brand": "Mobile Legends",
+            "sku_name": "Semua Skin di Shop MLBB",
+            "promo_type": "Diskon hingga 50%",
+            "mechanic": "Diskon hingga 50%",
+            "regular_price": "",
+            "promo_price": "",
+            "confidence": 0.95
+          }
+        ]
+      }
+    },
+    {
+      "page_name": "page_020.png",
+      "extracted_data": {
+        "image_id": "",
+        "period": "",
+        "items": [
+          {
+            "brand": "IM3",
+            "sku_name": "eSIM dan Kartu Perdana 3GB / 30 hari",
+            "promo_type": "Harga Spesial",
+            "mechanic": "",
+            "regular_price": "",
+            "promo_price": "Rp35ribu",
+            "confidence": 0.98
+          }
+        ]
+      }
+    }
+  ]
+}
