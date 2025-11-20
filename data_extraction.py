@@ -7,7 +7,7 @@ import time
 # --------------------------------------------------------
 # CONFIGURATION
 # --------------------------------------------------------
-API_KEY = "sk-FXSqn80ty6ZwsoAJO2natQ"     # <-- PUT YOUR TIGER ANALYTICS KEY
+API_KEY = ""     # <-- PUT YOUR TIGER ANALYTICS KEY
 BASE_URL = "https://api.ai-gateway.tigeranalytics.com"
 MODEL_NAME = "gemini-2.5-pro"
 
@@ -279,5 +279,6 @@ for folder in os.listdir(ROOT_FOLDER):
         json.dump(folder_result, f, indent=2, ensure_ascii=False)
 
     print(f" Saved → {out_path}")
+
 
 
