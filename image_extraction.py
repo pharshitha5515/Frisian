@@ -5,7 +5,6 @@ from pathlib import Path
 from typing import Optional
 from playwright.async_api import async_playwright, Page, Frame
 
-
 # ================== CONFIG ==================
 PROMO_LIST_URL = "https://www.indomaret.co.id/promosi"
 NAV_TIMEOUT = 180_000
@@ -13,12 +12,10 @@ DOWNLOAD_TIMEOUT = 120_000
 CONVERT_PDF_TO_PNG = True
 # ============================================
 
-
 def safe(name: str):
     name = (name or "").strip()
     name = re.sub(r'[\\/*?:"<>|]', "", name)
     return name or "untitled"
-
 
 # ============================================================
 # BLOCK NON-FLIP IMAGES
@@ -36,7 +33,6 @@ async def block_nonflip_images(page: Page):
         else:
             await route.continue_()
     await page.route("**/*", handler)
-
 
 # ============================================================
 # HTML EXTRACTORS
@@ -126,7 +122,7 @@ def convert_pdf_to_images(pdf_file: Path, out_dir: Path) -> int:
         pix = page.get_pixmap(matrix=fitz.Matrix(2, 2))
         outfile = out_dir / f"page_{i+1:03d}.png"
         pix.save(outfile)
-        print(f"  Converted page {i+1}/{count}")
+        print(f" Converted page {i+1}/{count}")
 
     doc.close()
     return count
