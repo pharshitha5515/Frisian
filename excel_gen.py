@@ -14,13 +14,11 @@ OUTPUT_EXCEL = "final_output.xlsx"
 # 2. ROW NORMALIZATION HELPERS
 # ============================================================
 
-def safe_get(*keys):
+def safe_get(obj, *keys):
     """
     Utility: return the first non-empty key found in a dict.
-    Usage: safe_get(item, "brand", "product_brand", "brand_name")
     """
-    obj = keys[0]
-    for key in keys[1:]:
+    for key in keys:
         if isinstance(obj, dict) and key in obj and obj[key] not in [None, ""]:
             return obj[key]
     return ""
@@ -77,9 +75,56 @@ def extract_standard_flyer(folder, page, extracted):
     return rows
 
 
-def extract_list_items(folder, page, items):
-    """Handles: extracted_data = [ {...}, {...} ]"""
+def extract_label_items(folder, page, items):
+    """
+    Handles entries like:
+    { "box_2d": [...], "label": "FRISIAN FLAG 1+ Madu/Vanila 750g box" }
+
+    We treat `label` as brand+sku.
+    Brand = first word(s) before numbers.
+    SKU = rest of text.
+    """
     rows = []
+
+    for item in items:
+        if not isinstance(item, dict):
+            continue
+        if "label" not in item:
+            continue
+
+        label = item["label"]
+        clean = label.strip()
+
+        # Try split into brand + rest
+        parts = clean.split(" ")
+        split_index = 1
+        for idx, token in enumerate(parts):
+            if any(ch.isdigit() for ch in token):  # first digit-containing token = SKU starts
+                split_index = idx
+                break
+
+        brand = " ".join(parts[:split_index]).strip()
+        sku = " ".join(parts[split_index:]).strip()
+
+        rows.append(
+            build_row(
+                folder, page,
+                brand=brand,
+                sku_name=sku,
+            )
+        )
+
+    return rows
+
+
+def extract_list_items(folder, page, items):
+    """Handles: extracted_data = [ {...}, {...} ] (general case)"""
+    rows = []
+
+    # If these are label-only bounding boxes → send to label extractor
+    if all(isinstance(i, dict) and "label" in i and "box_2d" in i for i in items):
+        return extract_label_items(folder, page, items)
+
     for item in items:
         if not isinstance(item, dict):
             continue
@@ -184,7 +229,7 @@ def process_json_folder():
         folder = data.get("folder", "")
         pages = data.get("pages", [])
 
-        print(f"✔ Processing → {file}")
+        print(f" Processing → {file}")
 
         for page in pages:
             page_name = page.get("page_name", "")
@@ -194,8 +239,8 @@ def process_json_folder():
             all_rows.extend(rows)
 
     df = pd.DataFrame(all_rows)
-    df.to_excel(OUTPUT_EXCEL, index=False)
-    print("\n🎉 FINAL EXCEL CREATED →", OUTPUT_EXCEL)
+    df.to_excel(OUTPUT_EXCEL, index=False, engine="openpyxl")
+    print("\n FINAL EXCEL CREATED →", OUTPUT_EXCEL)
 
 
 # ============================================================
